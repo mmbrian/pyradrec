@@ -20,4 +20,4 @@ EMAIL_HOST_USER = 'you_username'
 EMAIL_HOST_PASSWORD = 'your_password'
 
 # the email address which receives recording notifications
-EMAIL_RECIPIENT = 'mohsen.brian@gmail.com'
+EMAIL_RECIPIENT = 'your_email_address'
